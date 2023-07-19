@@ -5,9 +5,12 @@ specified mail ID.
 Firstly, inorder to make this file work one would have to create new target points for all the "Click" and "Type Into" boxes as described below.
 
 
-<img width="494" alt="image" src="https://github.com/TrishaTanwar/PetLover-UiPath-Project/assets/92311832/4a5ff413-4078-4912-a423-3083a5fa8352">
-<img width="491" alt="image" src="https://github.com/TrishaTanwar/PetLover-UiPath-Project/assets/92311832/06362681-c9cd-4875-ab32-ea5fe3a8f6ca">
-<img width="490" alt="image" src="https://github.com/TrishaTanwar/PetLover-UiPath-Project/assets/92311832/908e6d1f-1bb5-41d7-a27a-24e84a12755a">
+<img width="491" alt="image" src="https://github.com/TrishaTanwar/UiPath-YourPet-Project/assets/92311832/7c9d3153-0086-4443-be97-27aae66a590e">
+
+<img width="491" alt="image" src="https://github.com/TrishaTanwar/UiPath-YourPet-Project/assets/92311832/539a328e-b305-4a6e-a2b3-9fa44e562f1b">
+
+<img width="490" alt="image" src="https://github.com/TrishaTanwar/UiPath-YourPet-Project/assets/92311832/5256f2a6-1ab0-428a-9f17-011232c11388">
+
 
 
 
@@ -16,17 +19,15 @@ Then all that has to be done is to set up the sender's gmail in the "Use Gmail" 
 This is how it would work:
 
 Firstly, after taking input it displays what you entered it displays a text box.
-<img width="960" alt="image" src="https://github.com/TrishaTanwar/PetLover-UiPath-Project/assets/92311832/a02beb8a-5945-4571-bf88-20b46e2f5a33">
+
+<img width="466" alt="image" src="https://github.com/TrishaTanwar/UiPath-YourPet-Project/assets/92311832/b0c8c59b-b648-4d70-88c7-a0ab3ff6c7fa">
+
 
 After that it opens google and types in the animal type and breed and searches it up.
 
-
-<img width="960" alt="image" src="https://github.com/TrishaTanwar/PetLover-UiPath-Project/assets/92311832/afe6719e-4c46-4673-85dd-005d9f02f1e7">
+<img width="903" alt="image" src="https://github.com/TrishaTanwar/UiPath-YourPet-Project/assets/92311832/59c06ab5-8074-45cf-97a8-8549541e7e84">
 
 After all that it mails the information as well as the image to the mail ID specified at the start.
 
-
-<img width="274" alt="image" src="https://github.com/TrishaTanwar/PetLover-UiPath-Project/assets/92311832/776b9485-2b3e-4605-a4fc-7a897191e26b">
-
-
+<img width="224" alt="image" src="https://github.com/TrishaTanwar/UiPath-YourPet-Project/assets/92311832/d81a8aad-d370-4e62-bcda-3d4c7e7d8211">
 
